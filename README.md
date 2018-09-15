@@ -37,4 +37,4 @@ FROM custmer
 CROSS JOIN product;
 
 
-select * from custmer cross join product;
+select * from custmer cross join product ;
